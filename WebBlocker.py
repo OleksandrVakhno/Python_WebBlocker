@@ -1,7 +1,7 @@
 import time
 from datetime import datetime as dt
 hosts_temp = "hosts"
-hosts_path = "/etc/hosts"
+hosts_path = "/etc/hosts" #r"C:\Windows\System32\drivers\etc\hosts" for Windows
 redirect = "127.0.0.1"
 websites =["www.facebook.com", "facebook.com"]
 
